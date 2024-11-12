@@ -12,4 +12,6 @@ wiki -a <API>
 ```
 git clone https://github.com/mohv1/WikiGNU
 ``` 
-.basrc - alias wiki /home/$USER/WikiGNU/main.py
+```nano .basrc```
+=>
+```alias wiki /home/$USER/WikiGNU/main.py```
