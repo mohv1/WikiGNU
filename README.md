@@ -1,4 +1,5 @@
 Using:
+
 -a - ChadAI api
 -h - help
 -s - search
